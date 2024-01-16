@@ -31,4 +31,9 @@ yarn api
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Deployment
+## TODO
+
+- Finish Login page [ ]
+- Finish Register page [ ]
+- Finish Forgot Password page [ ]
+- Finish Dashboard [ ]

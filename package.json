@@ -6,11 +6,13 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "api": "json-server mock/db.json --port 8000"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.0.1",
     "autoprefixer": "10.4.16",
+    "json-server": "^1.0.0-alpha.21",
     "next": "14.0.4",
     "postcss": "8.4.33",
     "react": "18.2.0",
